@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\Canderous Ordo [Kotor 1]\Canderous_Ordo.jpg" -id 712420244 -changes "Better Icon; No more G-Realms Icon."

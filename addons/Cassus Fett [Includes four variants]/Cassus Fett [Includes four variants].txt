@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\Cassus Fett [Includes four variants]\Cassus_Fett.jpg" -id 712423410 -changes "Better Icon; No more G-Realms Icon."
