@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Tyzen Xebec\[ Star Wars ] Tyzen Xebec.jpg" -id 721438820 -changes "Better Icon; No more G-Realms Icon."

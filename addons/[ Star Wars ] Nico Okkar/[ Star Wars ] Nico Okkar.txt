@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Nico Okkar\[ Star Wars ] Nico Okkar.jpg" -id 712416460 -changes "Better Icon; No more G-Realms Icon."

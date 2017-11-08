@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Lana Beniko\[ Star Wars ] Lana Beniko.jpg" -id 712419489 -changes "Better Icon; No more G-Realms Icon."

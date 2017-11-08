@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Republic Soldier Exalted\[ Star Wars ] Republic Soldier Exalted.jpg" -id 635043040 -changes "Better Icon; No more G-Realms Icon."

@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Mandalore the Ultimate\[ Star Wars ] Mandalore the Ultimate.jpg" -id 712424852 -changes "Better Icon; No more G-Realms Icon."

@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Jaster Mareel\[ Star Wars ] Jaster Mareel.jpg" -id 708311168 -changes "Better Icon; No more G-Realms Icon."

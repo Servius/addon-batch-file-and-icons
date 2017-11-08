@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Gungans [Four Bodygroupable variants]\[ Star Wars ] Gungans [Four Bodygroupable variants].jpg" -id 708310600 -changes "Better Icon; No more G-Realms Icon."

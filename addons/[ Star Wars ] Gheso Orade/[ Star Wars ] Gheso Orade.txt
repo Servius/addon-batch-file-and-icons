@@ -1,0 +1,1 @@
+gmpublish.exe update -icon "E:\Server\addon-batch-file-and-icons\addons\[ Star Wars ] Gheso Orade\[ Star Wars ] Gheso Orade.jpg" -id 708306754 -changes "Better Icon; No more G-Realms Icon."
